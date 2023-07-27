@@ -2,7 +2,7 @@
 title: Home page
 description: 
 published: true
-date: 2023-07-27T16:53:24.618Z
+date: 2023-07-27T17:33:29.738Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-27T16:34:03.138Z
@@ -34,3 +34,6 @@ Are you passionate about sustainability and want to make a difference? Join us t
 
 ## Stay Connected
 Follow us on [Instagram](https://www.instagram.com/towardsnetzero2050/?hl=en) and [LinkedIn](https://www.linkedin.com/company/towards-net-zero-2050/about/), and join our [WhatsApp group](https://chat.whatsapp.com/C4TzPPCwVshKNBd44pP6Tk) to stay updated with our latest news and events.
+
+## Our Team
+
